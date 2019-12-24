@@ -29,6 +29,7 @@ docker run -v `pwd`:/source jagregory/pandoc -o aprenda-go-com-testes.pdf --late
     criando-uma-aplicacao/websockets.md \
     perguntas-e-respostas/os-exec.md \
     perguntas-e-respostas/error-types.md \
+    meta/glossario.md \
 
 docker run -v `pwd`:/source jagregory/pandoc -o aprenda-go-com-testes.epub --latex-engine=xelatex --toc --toc-depth=1 title.txt \
     gb-readme.md \
@@ -56,4 +57,5 @@ docker run -v `pwd`:/source jagregory/pandoc -o aprenda-go-com-testes.epub --lat
     criando-uma-aplicacao/time.md \
     criando-uma-aplicacao/websockets.md \
     perguntas-e-respostas/os-exec.md \
-    perguntas-e-respostas/error-types.md
+    perguntas-e-respostas/error-types.md \
+    meta/motivacao.md

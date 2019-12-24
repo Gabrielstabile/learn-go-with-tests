@@ -42,3 +42,4 @@
 -   [Como contribuir](meta/contribuindo.md)
 -   [Como traduzir](meta/traduzindo.md)
 -   [Exemplo de capítulo](meta/exemplo.md)
+-   [Glossário](meta/glossario.md)
